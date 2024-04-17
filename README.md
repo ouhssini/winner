@@ -38,7 +38,3 @@ To get a local copy of the project up and running, follow these steps:
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, bug fixes, or feature requests, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
